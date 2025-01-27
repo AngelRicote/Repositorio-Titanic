@@ -1,1 +1,3 @@
-Esta es la documantacion de mi proyecto
+# Acerca de este documento
+
+Esta es la documentacion de mi proyecto.
